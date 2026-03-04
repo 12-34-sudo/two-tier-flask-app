@@ -129,7 +129,7 @@ docker run -d \
 # project origin
 
 This repository is forked from:
-Original repository: https://github.com/ORIGINAL-USER/PROJECT
+Original repository: https://LondheShubham153/two-tier-flask-app
 
 I followed this project to understand the architecture and deployment workflow.
 
