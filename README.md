@@ -126,5 +126,30 @@ docker run -d \
 
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
+# project origin
+
+This repository is forked from:
+Original repository: https://github.com/ORIGINAL-USER/PROJECT
+
+I followed this project to understand the architecture and deployment workflow.
+
+---
+
+## 🔧 What I Practiced
+
+- Docker image building
+- Containerizing the application
+- Running services with Docker Compose
+- Understanding project structure
+- Debugging container/network issues
+
+---
+
+## 🧠 What I Learned
+
+- How services communicate in Docker
+- How to expose ports correctly
+- How to build and push images
+- Basic deployment workflow
 ```
 
